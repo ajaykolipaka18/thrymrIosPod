@@ -1,0 +1,6 @@
+framework module Pods_thrymrIosPod_Tests {
+  umbrella header "Pods-thrymrIosPod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

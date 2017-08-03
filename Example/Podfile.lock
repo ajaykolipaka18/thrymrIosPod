@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - thrymrIosPod (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - thrymrIosPod (from `../`)
+
+EXTERNAL SOURCES:
+  thrymrIosPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  thrymrIosPod: fa97d20e0babff71e772de3863b614197e5a701a
+
+PODFILE CHECKSUM: dc3de649600b4884bd497f61cf3194a4baaf12f8
+
+COCOAPODS: 1.3.0

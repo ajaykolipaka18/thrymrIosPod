@@ -1,0 +1,6 @@
+framework module thrymrIosPod {
+  umbrella header "thrymrIosPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
